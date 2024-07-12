@@ -7,7 +7,7 @@ Contract - eth.co - San Francisco, California
 
 **Software Design Engineer** - [eth.co](https://eth.co/home) | Hello World Labs, Remote  
 (*Jan 2023 – Present*)
-- Led frontend + application architectural design: Typescript type system, Typescript fetching/api layer, Preact frontend, Elixir Phoenix application 
+- Led frontend + backend design and implementation: Typescript type system, Typescript fetching/api layer, Preact frontend, Elixir Phoenix application 
 - Lead implementation of a Farcaster client with aggregated activity feeds showing onchain activities and Farcaster network activity
 - Lead implementation of a decentralized messaging client (XMTP + ENS based)
 
