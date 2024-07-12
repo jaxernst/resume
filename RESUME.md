@@ -33,7 +33,7 @@ Contract - eth.co - San Francisco, California
 ## My Tech  (**What I like**)
 
 - Svelte - Sveltekit - React
-- Full stack EVM development - Solidity - Forge - Mud - Viem
+- Full stack EVM development - Solidity - Foundry - Mud - Viem
 - Elixir - BEAM development - functional programming 
 - Advanced Typescript type systems - api design
 - Tailwind (always tailwind)
