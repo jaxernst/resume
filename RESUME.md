@@ -38,7 +38,7 @@ Contract - eth.co - San Francisco, California
 - Advanced Typescript type systems - api design
 - Tailwind (always tailwind)
 
-# Education
+## Education
 
 **Cal Poly, San Luis Obispo, CA**  
 *B.S. Aerospace Engineering, GPA: 3.4*  
