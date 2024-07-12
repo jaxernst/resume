@@ -1,5 +1,5 @@
 # Jackson Ernst
-#### **Blockchain Application Developer**  
+### **Blockchain Application Developer**  
 Contract - eth.co - San Francisco, California  
 [jaxernst@gmail.com](mailto:jaxernst@gmail.com)
 
