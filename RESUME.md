@@ -15,7 +15,7 @@ Contract - eth.co - San Francisco, California
 (*Jan 2022 – Feb 2023*  )
 - Co-developed smart contract transaction priority protocol for MEV capture
 - Developed off-chain protocol infrastructure for meta-transactions
-- Created and integration-tested a reference implementation DEX (Uniswap V2 fork)
+- Created and tested a reference implementation DEX (Uniswap V2 fork)
 - Developed a DEX arbitrage bot for testnet pool balancing
 
 **Systems Co-Op -> Software Systems Engineer** | Moog Aircraft Group, Torrance, CA  
