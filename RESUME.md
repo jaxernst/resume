@@ -28,7 +28,7 @@ Contract - eth.co - San Francisco, California
 [**Puzzle Bets**](https://beta.puzzlebets.xyz/welcome) | Open source Consumer Crypto   
 [**Social Alarm Clock**](https://alarmbets.tech) | Social-Fi | Juicebox x Nouns Prop House funded  
 [**Pledger Board**](https://ethglobal.com/showcase/pledger-board-vc1x2) | Autonomous Worlds EthGlobal Hackathon prize winner  
-[**Digital Boids**](https://digital-boids.vercel.app)| Flocking simulation toy  
+[**Digital Boids**](https://digital-boids.vercel.app) | Flocking simulation toy  
 
 ## My Tech  (**What I like**)
 
