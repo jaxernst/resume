@@ -37,6 +37,7 @@ Contract - eth.co - San Francisco, California
 - Elixir - BEAM development - functional programming 
 - Advanced Typescript type systems - api design
 - Tailwind (always tailwind)
+- Postgres -> Supabase
 
 ## Education
 
